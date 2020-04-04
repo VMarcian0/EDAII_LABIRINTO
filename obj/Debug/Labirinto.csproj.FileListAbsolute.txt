@@ -1,0 +1,9 @@
+C:\Users\Victo\Desktop\EDAII\Labirinto 2.0\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.csprojAssemblyReference.cache
+C:\Users\Victo\Desktop\EDAII\Labirinto 2.0\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.Principal.resources
+C:\Users\Victo\Desktop\EDAII\Labirinto 2.0\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.Properties.Resources.resources
+C:\Users\Victo\Desktop\EDAII\Labirinto 2.0\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.csproj.GenerateResource.cache
+C:\Users\Victo\Desktop\EDAII\Labirinto 2.0\Labirinto 2.0 - Implementar\bin\Debug\Labirinto.exe.config
+C:\Users\Victo\Desktop\EDAII\Labirinto 2.0\Labirinto 2.0 - Implementar\bin\Debug\Labirinto.exe
+C:\Users\Victo\Desktop\EDAII\Labirinto 2.0\Labirinto 2.0 - Implementar\bin\Debug\Labirinto.pdb
+C:\Users\Victo\Desktop\EDAII\Labirinto 2.0\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.exe
+C:\Users\Victo\Desktop\EDAII\Labirinto 2.0\Labirinto 2.0 - Implementar\obj\Debug\Labirinto.pdb
